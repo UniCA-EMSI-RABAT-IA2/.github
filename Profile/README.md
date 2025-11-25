@@ -4,7 +4,7 @@
 
 ## Kotlin pour la programmation Mobile et l'IA
 
-### Leombattista DONATI - 2025
+### [Leombattista DONATI](https://github.com/DonatiLeo) - 2025
 
 #### Site de Rabat
 
